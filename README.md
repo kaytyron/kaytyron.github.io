@@ -2,6 +2,8 @@
 
 # Kelvin Tyron
 
+## An opportunity to be at MEST to become better. 
+
 Knack for efficient problem solving, determined, innovative and enterprising with
 exceptional capabilities of productive management and leadership.
 I need to add this so I can reach a number of commits.
