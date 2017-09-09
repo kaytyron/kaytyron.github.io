@@ -24,3 +24,5 @@ My bash on windows is annoying me now.
 [Life at MEST](www.mest.org)
 
 ![Image](img/me.png)
+
+:bowtie:
